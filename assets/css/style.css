@@ -21,13 +21,19 @@ body {
 	text-align: left;
 }
 #fimage {
-	
+	position: absolute;
+	top: 150px;
+	left: 120px;
 }
 #simage {
-	
+	position: absolute;
+	top: 150px;
+	left: 520px;
 }
 #timage {
-	
+	position: absolute;
+	top: 150px;
+	left: 920px;
 }
 
 
@@ -103,7 +109,7 @@ img {
 
 
 .second {
-	background-color: rgb(74, 193, 248);
+	background-color: rgb(0, 0, 0);
 	position: absolute;
 	top: 800px;
 	left: 0;
